@@ -1,0 +1,11 @@
+D:\Projects\AgoraMarketplace\server\server\bin\Debug\netcoreapp2.0\server.deps.json
+D:\Projects\AgoraMarketplace\server\server\bin\Debug\netcoreapp2.0\server.runtimeconfig.json
+D:\Projects\AgoraMarketplace\server\server\bin\Debug\netcoreapp2.0\server.runtimeconfig.dev.json
+D:\Projects\AgoraMarketplace\server\server\bin\Debug\netcoreapp2.0\server.dll
+D:\Projects\AgoraMarketplace\server\server\obj\Debug\netcoreapp2.0\server.csprojAssemblyReference.cache
+D:\Projects\AgoraMarketplace\server\server\obj\Debug\netcoreapp2.0\server.csproj.CoreCompileInputs.cache
+D:\Projects\AgoraMarketplace\server\server\obj\Debug\netcoreapp2.0\server.AssemblyInfoInputs.cache
+D:\Projects\AgoraMarketplace\server\server\obj\Debug\netcoreapp2.0\server.AssemblyInfo.cs
+D:\Projects\AgoraMarketplace\server\server\bin\Debug\netcoreapp2.0\server.pdb
+D:\Projects\AgoraMarketplace\server\server\obj\Debug\netcoreapp2.0\server.dll
+D:\Projects\AgoraMarketplace\server\server\obj\Debug\netcoreapp2.0\server.pdb
